@@ -6,47 +6,47 @@ TrustLink is an AI-powered platform designed to detect, categorize, and prevent 
 
 🚩 Problem
 
-Online scams like fake websites, phishing domains, and fraudulent mobile apps are increasing rapidly.
+. Online scams like fake websites, phishing domains, and fraudulent mobile apps are increasing rapidly.
 
-Students and professionals are often added to unverified groups where fake internships and scam offers spread.
+. Students and professionals are often added to unverified groups where fake internships and scam offers spread.
 
-Current detection methods are reactive and rely on user reports or takedowns, which come too late.
+. Current detection methods are reactive and rely on user reports or takedowns, which come too late.
 
-There is no proactive system that warns users in real time.
+. There is no proactive system that warns users in real time.
 
 💡 Our Solution – TrustLink Platform
 
-TrustLink is a secure, domain-based communication hub with built-in AI/ML fraud detection.
+. TrustLink is a secure, domain-based communication hub with built-in AI/ML fraud detection.
 
-Verified Access: Only college or corporate email IDs can join.
+. Verified Access: Only college or corporate email IDs can join.
 
-AI/ML Detection: Scans messages, links, and apps for fraud patterns.
+. AI/ML Detection: Scans messages, links, and apps for fraud patterns.
 
-Secure Link Repository: Centralized trusted links for all members.
+. Secure Link Repository: Centralized trusted links for all members.
 
-Real-Time Alerts: Users are notified immediately if content is flagged.
+. Real-Time Alerts: Users are notified immediately if content is flagged.
 
-Multi-Organization Support: Works for colleges, corporates, and other institutions.
+. Multi-Organization Support: Works for colleges, corporates, and other institutions.
 
 ⚙️ How It Works
 
-User logs in with a verified college/corporate email.
+. User logs in with a verified college/corporate email.
 
-When a message, link, or app is shared → it passes through the AI/ML layer.
+. When a message, link, or app is shared → it passes through the AI/ML layer.
 
-NLP: Detects scam or phishing language.
+. NLP: Detects scam or phishing language.
 
-Computer Vision: Compares website UI to known brands.
+. Computer Vision: Compares website UI to known brands.
 
-Metadata: Analyzes WHOIS, domain age, app permissions, etc.
+. Metadata: Analyzes WHOIS, domain age, app permissions, etc.
 
-Risk scoring is applied.
+. Risk scoring is applied.
 
 ✅ Safe → Message delivered.
 
 ⚠️ Suspicious → Flagged and sent for admin/faculty review.
 
-Real-time alerts keep students and faculty informed.
+. Real-time alerts keep students and faculty informed.
 
 ✨ Key Features
 
@@ -76,28 +76,28 @@ Security: OAuth2 + Domain Email Verification
 
 🌍 Impact
 
-Protects students and professionals from scams, phishing, and fake apps.
+. Protects students and professionals from scams, phishing, and fake apps.
 
-Eliminates the spread of fake internship/job groups.
+. Eliminates the spread of fake internship/job groups.
 
-Builds trust and safety in online communication.
+. Builds trust and safety in online communication.
 
-Scalable to colleges, corporates, and nationwide adoption.
+. Scalable to colleges, corporates, and nationwide adoption.
 
 🚀 Future Scope
 
-Chrome extension for real-time website fraud alerts.
+. Chrome extension for real-time website fraud alerts.
 
-Mobile app to scan suspicious links & applications.
+. Mobile app to scan suspicious links & applications.
 
-Integration with law enforcement for monitoring suspicious activity.
+. Integration with law enforcement for monitoring suspicious activity.
 
-Feedback loop to continuously improve the AI model.
+. Feedback loop to continuously improve the AI model.
 👥 Team ZEN CODERS
 
-B.Manvitha
-T.Hasini
-K.Krishnaveni
-R.Madhusitha Reddy
+> B.Manvitha
+> T.Hasini
+> K.Krishnaveni
+> R.Madhusitha Reddy
 
  “Securing the digital journey, one click at a time.”
