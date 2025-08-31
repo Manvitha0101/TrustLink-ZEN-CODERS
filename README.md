@@ -93,11 +93,20 @@ Security: OAuth2 + Domain Email Verification
 . Integration with law enforcement for monitoring suspicious activity.
 
 . Feedback loop to continuously improve the AI model.
+## Datasets
+Our system can be trained/evaluated using public datasets such as:
+- [PhishTank](https://phishtank.org/)
+- [Kaggle – Phishing Dataset](https://www.kaggle.com/datasets/shashwatwork/phishing-dataset-for-machine-learning)
+- [UCI Phishing Websites Dataset](https://archive.ics.uci.edu/ml/datasets/phishing+websites)
+- ## Demo Video
+🎥 [Watch on YouTube]
+https://www.youtube.com/watch?v=zzAZMpDYCQ8
+
 👥 Team ZEN CODERS
 
 > B.Manvitha
 > T.Hasini
 > K.Krishnaveni
-> R.Madhusitha Reddy
+> R.Madhuhasitha Reddy
 
  “Securing the digital journey, one click at a time.”
