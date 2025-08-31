@@ -1,0 +1,41 @@
+This file contains the demo video script for our project presentation.
+🎥 Team ZEN CODERS – Demo Video Script
+Member 1 – Introduction (20 sec)
+
+“Hello everyone, we are Team ZEN CODERS, and our project is called TrustLink – an AI-Powered Fraud and Scam Detection System. Our aim is to create a secure digital environment where only safe and trusted information is shared across colleges and organizations.”
+
+Member 2 – Problem Statement (30 sec)
+
+“Fraudulent websites, fake internship groups, and phishing apps are becoming common today. These scams lead to data theft, financial loss, and misuse of personal information. Existing solutions are mostly reactive and depend on user complaints or takedowns, which often come too late. There is no proactive system that can stop these scams before they reach users.”
+
+Member 3 – Proposed Solution (45 sec)
+
+“Our solution is TrustLink, a secure communication platform powered by Artificial Intelligence and Machine Learning.
+
+It allows only verified users through college or corporate email login.
+
+Every link, message, or app shared is scanned by our AI/ML detection layer.
+
+NLP detects scam language, Computer Vision checks website similarity, and metadata like domain age and permissions are analyzed.
+
+Based on risk scoring, content is either marked as Safe or flagged as Suspicious.
+This way, users are protected before falling victim to fraud.”
+
+Member 4 – Demo & Impact (1 min)
+
+“Here is how it works:
+
+A user logs in with their verified email ID.
+
+When a link is shared, the system checks it through our AI/ML models.
+
+For example, if someone shares a safe educational link, it is marked Safe.
+
+But if a fraudulent phishing link is shared, it is flagged Suspicious and a warning is sent to faculty and students.
+
+Impact:
+With this system, we ensure secure communication in colleges and organizations. It eliminates fake groups, prevents phishing scams, and promotes cybersecurity awareness. In the future, we plan to add a Chrome extension and mobile app for real-time fraud detection.”
+
+All Members Together – Closing (10 sec)
+
+“Thank you for watching! We are Team ZEN CODERS, and our mission is simple: Securing the digital journey, one click at a time.”
